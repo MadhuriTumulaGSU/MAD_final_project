@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
  import 'package:stockly_project/Screens/stock%20screen/top_stocks.dart';
  import 'package:stockly_project/Screens/stock%20screen/top_stocks_page.dart';
  import 'package:stockly_project/services/auth_services.dart';
+ //imported auth_services
  import 'package:stockly_project/services/database.dart';
  import 'package:provider/provider.dart';
  import 'package:cloud_firestore/cloud_firestore.dart';
