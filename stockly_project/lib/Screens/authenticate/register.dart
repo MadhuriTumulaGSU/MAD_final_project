@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
  import 'package:stockly_project/services/auth.dart';
- import 'package:stockly/shared/loading.dart';
+ import 'package:stockly_project/shared/loading.dart';
+ 
  
  class Register extends StatefulWidget {
    final Function toggleView;
