@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:stockly_project/Screens/wrapper.dart';
-import 'package:stockly_project/firebase_options.dart';
 import 'package:provider/provider.dart';
-import 'package:stockly_project/services/auth.dart';
+import 'package:stockly_project/services/auth_services.dart';
 import 'package:stockly_project/models/user_model.dart';
+import 'package:stockly_project/firebase_options.dart';
 import 'package:stockly_project/Screens/stock screen/newsfeed.dart';
 
 void main() async {
@@ -32,7 +32,9 @@ class MyApp extends StatelessWidget {
         ),
         home: const Wrapper(), // Wrapper will decide where to navigate
         routes: {
-          '/newsfeed': (context) => const NewsFeedScreen(myStockSymbols: [],), // Added NewsFeed route
+          '/newsfeed': (context) => const NewsFeedScreen(
+                myStockSymbols: [],
+              ), // Added NewsFeed route
         },
       ),
     );
