@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
- import 'package:stockly_project/services/auth.dart';
+ import 'package:stockly_project/services/auth_services.dart';
  import 'package:stockly_project/shared/loading.dart';
  
  class SignIn extends StatefulWidget {
