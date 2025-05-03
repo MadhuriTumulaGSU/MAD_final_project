@@ -3,7 +3,10 @@
 Stoxie is a mobile application built with **Flutter**, designed to simplify the process of tracking and managing stocks. Whether you're a seasoned investor or a beginner in the stock market, Stoxie offers an intuitive interface that allows users to organize, monitor, and track their favorite stocks in real time. The app provides personalized stock tracking, up-to-date price changes from global markets, and related financial news to help users make informed decisions.
 
 ---
+## Presentation
+For a detailed overview, check out the[Stoxie Presentation](https://github.com/MadhuriTumulaGSU/MAD_final_project/blob/main/stockly_project/STOXIE.pptx).
 
+---
 ## Features
 
 - **Track Stock Prices Worldwide**: Stay up-to-date with real-time stock prices and changes from global markets.
