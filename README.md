@@ -4,7 +4,9 @@ Stoxie is a mobile application built with **Flutter**, designed to simplify the 
 
 ---
 ## Presentation
-For a detailed overview, check out the[Stoxie Presentation](https://github.com/MadhuriTumulaGSU/MAD_final_project/blob/main/stockly_project/STOXIE.pptx).
+For a detailed overview, check out the [Stoxie Presentation](https://github.com/MadhuriTumulaGSU/MAD_final_project/blob/main/stockly_project/STOXIE.pptx).
+For project Explanation, check out(https://youtu.be/urLIPJKbP5s)
+
 
 ---
 ## Features
